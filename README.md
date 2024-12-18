@@ -1,11 +1,11 @@
 # <h2 align="left">Hi 👋! My name is Viraj Lashkari and I'm a Backend Developer, from Surat, Gujarat, India...</h2>
 
-🛜 currently working on my own [webpage](https://virajlashkari.vercel.app/)<br>👨🏼‍🎓 I have completed a Bachelor of Computer Applications at Maharaja Krishnakumarsinhji Bhavnagar University.<br>👨🏼‍💻 working as a web developer since 2022 <br>
+🧑‍💻 **Coding Since**: 2021 </br>
+☕ **Powered By**: Coffee and curiosity  
+🎯 **Life Goal**: Push to production without breaking anything! <br>
+🛜 currently working on my own [webpage](https://virajlashkari.vercel.app/)<br>👨🏼‍🎓 I have completed a Bachelor of Computer Applications at Maharaja Krishnakumarsinhji Bhavnagar University.<br>
 
 # 💻 Tech Stack:
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -73,9 +73,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="30" alt="webstorm logo"  />
 </div>
-
-###
-
+<hr>
+</br>
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
@@ -94,6 +93,14 @@
   <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
   <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
 </div>
+<hr>
+</br>
+
+![Viraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=viraj-lashkari&show_icons=true&theme=radical)
+
+![Visitor Count](https://hits.sh/github.com/viraj-lashkari.svg?style=flat-square)
+
+<hr>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
